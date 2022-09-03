@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Priyanshu kumar
+- 👋 Hi, Priyanshu Kumar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning 'C' 
-- 📫 Instagram @pkrajput198
+- BCA Student AIT Shakarpur (GGSIPU)
+- 📫 Instagram @priyanshurajput198
 
 <!---
 pkrajput198/pkrajput198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
